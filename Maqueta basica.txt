@@ -1,0 +1,5 @@
+Hay que tener 4 paginas por las consignas, yo tendria una portada, una con formulario de contacto, una con ubicacion, y una de galeria.
+En la portada ponemos relleno sin dar la info que va en las otras.
+La de contacto nos sirve para el formulario de JS
+la de ubicacion metemos el iframe
+la de galeria podemos poner algun efecto
