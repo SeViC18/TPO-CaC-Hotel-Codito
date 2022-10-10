@@ -1,0 +1,29 @@
+nav {
+    padding: 0px;
+    background-color: black;
+}
+
+button {
+    margin: 5px 3px 0px 4px;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+footer {
+    padding: 0px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+
+img {
+    width: 100%;
+    border: double;
+}
+
+h4 {
+    text-align: center;
+}
