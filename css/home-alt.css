@@ -1,0 +1,35 @@
+.contenedor{
+    display: grid;
+    grid-template-areas: 
+    'header header header header'
+    'nav    nav    nav    nav   '
+    'pic    pic    main   main  '
+    'pic    pic    main   main  '
+    'footer footer footer footer'
+    ;
+    align-items: start;
+    justify-items: center;
+    /* gap: 10px;
+    padding: 10px;
+    grid-template-rows: 0fr 1fr 1fr 2fr; */
+}
+
+.box1 {
+    grid-area: header;
+}
+
+.box2 {
+    grid-area: nav;
+}
+
+.box3 {
+    grid-area: main;
+}
+
+.box4 {
+    grid-area: pic;
+}
+
+.box5 {
+    grid-area: footer;
+}
